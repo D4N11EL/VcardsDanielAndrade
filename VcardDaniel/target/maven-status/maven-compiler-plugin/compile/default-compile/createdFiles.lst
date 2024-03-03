@@ -1,0 +1,6 @@
+com\vcards\VcardDaniel\VcardDanielApplication.class
+com\vcards\VcardDaniel\models\Empleado.class
+com\vcards\VcardDaniel\controllers\CardsControllers.class
+com\vcards\VcardDaniel\models\Ciudad.class
+com\vcards\VcardDaniel\models\Sucursal.class
+com\vcards\VcardDaniel\AppConfig.class
